@@ -41,3 +41,10 @@
     right: 44vh;
     top: 8vh;
 }
+.arow
+{
+    position: absolute;
+    height: 7vh;
+    margin-left: 10px;
+    margin-top: 5px;
+}
