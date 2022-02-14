@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back
+{
+    background:#fff;
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    color:#fff;
+}
+.we{
+    position: absolute;
+    top: 10vh;
+    left: 5vh;
+    width: 30%;
+}
+.text
+{
+    position: absolute;
+    top: 50vh;
+    left: 5vh;
+    width: 40%;
+}
+.robot
+{
+    position: absolute;
+    top: 33vh;
+    left: 85vh;
+    width: 20%;
+}
+.welcome
+{
+    position: absolute;
+    height: 100vh;
+}
+.sign
+{
+    position: absolute;
+    right: 44vh;
+    top: 8vh;
+}
